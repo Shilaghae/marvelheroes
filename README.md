@@ -12,6 +12,6 @@ I saved the Marvel API key into a .so library so normally you shouldn't see the 
 
 With this separation every part of the code can be tested; unit test will need to cover Convertors/Mappers/Repositories/Interactors and ViewModels.
 
-![Alt text] (https://github.com/Shilaghae/marvelheroes/blob/master/yourheroes/images/hero_list.png)
+![Alt text](https://github.com/Shilaghae/marvelheroes/blob/master/yourheroes/images/hero_list.png)
 
-![Alt text] (https://github.com/Shilaghae/marvelheroes/blob/master/yourheroes/images/hero_details.png)
+![Alt text](https://github.com/Shilaghae/marvelheroes/blob/master/yourheroes/images/hero_details.png)
