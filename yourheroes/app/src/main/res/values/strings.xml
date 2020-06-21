@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Superhero Squad Maker</string>
+    <string name="empty_heroes_list">Oh no! No heroes!</string>
+    <string name="load_error_message">An error occurred while retrieving the heroes</string>
+    <string name="my_squad">My Squad</string>
+    <string name="hire_to_squad">%1$s Hire to Squad </string>
+    <string name="fire_to_squad">%1$sFire from Squad</string>
+    <string name="last_appeared_in">Last appeared in</string>
+</resources>

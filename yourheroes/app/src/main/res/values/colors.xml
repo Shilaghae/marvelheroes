@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5f0aff</color>
+    <color name="colorPrimaryDark">#5003f9</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bottom_line">#26000000</color>
+    <color name="hero_main_text_color">#D9000000</color>
+</resources>
